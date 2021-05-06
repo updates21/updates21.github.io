@@ -1,0 +1,41 @@
+{
+  "Facebook": {
+    "title": "Bejelentkezés a Facebookra",
+    "üzenet": {
+      youMustLogin: Először regisztrálnod kell.
+      vagy vagy
+    },
+    "inputok": {
+      "email": "e-mail vagy telefon",
+      telefon: telefon vagy e-mail
+      Jelszó:
+    },
+    "gombok": {
+      "login": "login",
+      signUp: "Új fiók létrehozása",
+      "folytatás": "folytatás"
+    },
+    "linkek": {
+      "forgatPassword": "elfelejtette a jelszavát?",
+      "forgetEmail": "Elfelejtette a fiókot?",
+      "keepMeSignedIn": "Tartson bejelentkezve"
+    }
+  },
+  "fbColor": {
+    "title": "Hogyan változtathatja meg a Facebook színét?"
+  },
+
+  "lépések": {
+    "login": "jelentkezzen be a fiókjába",
+    selectPost:
+    "selectColor": "Válasszon színt",
+    selectReaction:
+    "megerősítés": "a fiók megerősítése",
+    "gratulálok": "Áldott, megvan!"
+  },
+
+  "statikus": {
+    év: 2021
+  }
+
+}
